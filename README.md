@@ -4,7 +4,7 @@
 - spotify dev dashboard https://developer.spotify.com/dashboard/applications
 - https://github.com/jmperez/spotify-web-api-js
 - https://ytmusicapi.readthedocs.io/en/latest/reference.html#search
-
+- norme https://standardjs.com/rules-fr.html
 - use cases https://developers.google.com/youtube/v3/guides/authentication
 - client side https://developers.google.com/youtube/v3/guides/auth/client-side-web-apps
 

@@ -4,6 +4,8 @@
 
 ### react 
 - to read https://daveceddia.com/visual-guide-to-state-in-react/
+- reducer https://daveceddia.com/what-is-a-reducer/
+- react immut https://daveceddia.com/react-redux-immutability-guide/
 
 ### stack
 - https://medium.com/@jonnykalambay/now-playing-using-spotifys-awesome-api-with-react-7db8173a7b13

@@ -3,6 +3,7 @@
 ## readings
 
 ### react 
+- nice tut https://fr.reactjs.org/tutorial/tutorial.html
 - to read https://daveceddia.com/visual-guide-to-state-in-react/
 - reducer https://daveceddia.com/what-is-a-reducer/
 - react immut https://daveceddia.com/react-redux-immutability-guide/

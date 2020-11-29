@@ -27,3 +27,9 @@
 - js object <=> hash table in C https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/19978-les-tables-de-hachage
 - nice schema https://www.codeheroes.fr/2020/11/09/profiler-son-application-node-js-analyse-de-la-memoire/
 - how node works https://www.codeheroes.fr/2020/10/02/profiler-son-application-node-js-analyse-des-performances-cpu/
+
+### token storage
+- localstorage vs cookies https://website.simplx.fr/blog/2016/09/27/authentification-api-via-jwt-et-cookies/#:~:text=Il%20faut%20donc%20stocker%20ce,local%20storage%20ou%20session%20storage).
+- theory https://www.codeheroes.fr/2018/03/23/securiser-une-api-rest/
+- implementation https://www.codeheroes.fr/2020/02/02/securiser-une-api-rest-2-3-implementation-en-node-js/
+- how to handle JWT in front end side https://www.codeheroes.fr/2020/06/20/securiser-une-api-rest-3-3-gestion-du-jwt-cote-client/

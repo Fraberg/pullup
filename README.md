@@ -23,5 +23,6 @@
 - google https://google.github.io/styleguide/jsguide.html
 
 ### js and memory
+- nice overview https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript
 - nice schema https://www.codeheroes.fr/2020/11/09/profiler-son-application-node-js-analyse-de-la-memoire/
 - how node works https://www.codeheroes.fr/2020/10/02/profiler-son-application-node-js-analyse-des-performances-cpu/

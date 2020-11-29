@@ -2,7 +2,8 @@
 
 ## readings
 
-### react 
+### react
+- nice doc https://fr.reactjs.org/docs/getting-started.html
 - nice tut https://fr.reactjs.org/tutorial/tutorial.html
 - to read https://daveceddia.com/visual-guide-to-state-in-react/
 - reducer https://daveceddia.com/what-is-a-reducer/
